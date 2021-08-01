@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Two words NewProject
-=======
 Two words
->>>>>>> main
+
